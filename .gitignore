@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains IDE
+.idea/
+*.iml
+*.iws
+
+# VS Code
+.vscode/
+
+# Editor / temp files
+*.swp
+*~
+*.tmp
+*.bak
+
+# Logs
+*.log
